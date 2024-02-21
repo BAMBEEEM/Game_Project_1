@@ -1,0 +1,25 @@
+﻿Used Assets Licenses and Credit:
+
+
+1- mushroom1wcolor.png
+-Creator: Ebraheem Mustafa
+-Licensing: Creative Commons Zero v1.0 Universal (public domain)
+
+
+
+2-ninja.png
+-Creator: Penusbmic
+-Modification: extrapolated 7th new frame for standing still.
+-Licensing: Allowed for coomercial use and modification.
+-Link:  https://penusbmic.itch.io/characterpack1
+
+3-ThaleahFat.ttf (font)
+-Creator: Rick Hoppmann
+-License: CC-BY 4.0 (free for commercial use, or any other purpose)
+-Link: https://tinyworlds.itch.io/free-pixel-font-thaleah
+
+4-game_background_1.png
+-Creator: https://craftpix.net/
+-Licensing: Allowed for commercial and personal projects, allowed for modification.
+			See Term 2.0 in https://craftpix.net/file-licenses/ for more detail.
+-Link: https://craftpix.net/freebies/free-forest-battle-backgrounds/
